@@ -1,0 +1,551 @@
+@media only screen and (min-width: 1440px) {
+    .second-line::before {
+        right: 11%;
+    }
+    .h2::before{
+        left: 38%;
+
+    }
+    h4::after{
+        right: 39.2%;
+    }
+.container-8{
+    margin-top: -1px;
+}
+.box-foot-right {
+    width: 14%;
+}
+}
+
+@media only screen and (max-width: 1342px) {
+.second-line{
+    font-size: 47px;
+}
+.second-line::before{
+    top: 96%;
+    right: 6%;
+    width: 469px;
+}
+section{
+    margin-top: -2px;
+
+}
+.main-6{
+    margin-top: -10px;
+}
+footer{
+    margin-top: -2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media only screen and (max-width: 1200px) {
+    .first-line{
+        font-size: 44px;
+        font-weight: 600;
+        line-height: 60px;
+    }
+    .second-line{
+        font-weight: 600;
+        line-height: 66px;
+        font-size: 40px;
+    }
+    .second-line::before {
+        top: 96%;
+        right: 6%;
+        width: 395px;
+        height: 7px;
+    }
+    .thard-line{
+        font-size: 47px;
+        font-weight: 600;
+        line-height: 60px;
+    }
+    .container p{
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 23px;
+        width: 345px;
+    }
+    .dogi-right p::after{
+        right: 30%;
+    }
+    .h2::before{
+        left: 35%;
+
+    }
+    .grooming-pro{
+        top: 49%;
+        left: 6%;
+    font-size: 18px;
+    line-height: 26px;
+    }
+    .box-left-1 {
+        width: 25.9%;
+    }
+    .box-conter-1 {
+        width: 43%;
+    }
+    .box-right-1 {
+        width: 25.9%;
+    }
+    .Anti-Shampoo{
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 25px;
+    }
+.belt-pro{
+    font-size: 18px;
+}
+.toilet-home{
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 26px;
+}
+.hand-glove {
+    font-size: 18px;
+}
+.dogi-foods{
+    font-size: 18px;
+}
+h4::after{
+    top: 68%;
+    right: 36.7%;
+
+}    
+.sale{
+    width: 23%;
+}
+.container-7 {
+    justify-content: center;
+    gap: 22px;
+}
+
+
+}
+
+@media only screen and (max-width: 1024px){
+    .first-line {
+        font-size: 37px;
+        font-weight: 600;
+        line-height: 31px;
+    }
+    .second-line {
+        font-weight: 600;
+        line-height: 55px;
+        font-size: 31px;
+    }
+    .thard-line {
+        font-size: 37px;
+        font-weight: 600;
+        line-height: 40px;
+    }
+    .second-line::before {
+        top: 89%;
+        right: 6%;
+        width: 307px;
+        height: 7px;
+    }
+    .container p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 19px;
+        width: 288px;
+    }
+.btn1{
+    padding: 8px 10px;
+    font-size: 12px;
+}
+.btn2{
+    font-size: 12px;
+    padding: 8px 10px;
+}
+.buttons {
+    margin-top: 17px;
+}
+.hero-left{
+    padding-bottom: 100px;
+}
+.container-1{
+    gap: 84px;
+}
+.dogi-right p::after {
+    right: 26%;
+}
+.h3{
+    font-size: 28px;
+    margin-top: 9px;
+    line-height: 33px;
+}
+.boxright-3 {
+    width: 53.5%;
+    position: relative;
+}
+.boxleft-3 {
+    width: 39%;
+    position: relative;
+}
+.box-right-1 {
+    width: 24.9%;
+}
+.box-conter-1 {
+    width: 41%;
+}
+.box-left-1 {
+    width: 23.9%;
+}
+.grooming-pro {
+    top: 46%;
+    left: 5%;
+    font-size: 15px;
+    line-height: 26px;
+}
+.belt-pro {
+    font-size: 15px;
+}
+.hand-glove {
+    font-size: 15px;
+}
+.dogi-foods {
+    font-size: 15px;
+}
+.Anti-Shampoo {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+}
+.toilet-home {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 26px;
+}
+h4::after {
+    top: 74%;
+    right: 33.7%;
+}
+.p7{
+    font-size: 18px;
+}
+a span{
+    font-size: 18px;
+}
+.pandding-order{
+    width: 34px;
+}
+.box-foot-right {
+    width: 19%;
+}
+.box-foot-left {
+    width: 26%;
+    border-right: 2px solid #80849033;
+    margin-right: 37px;
+}
+
+}
+
+@media only screen and (max-width: 992px){
+    .first-line {
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 27px;
+    }
+    .second-line {
+        font-weight: 600;
+        line-height: 59px;
+        font-size: 30px;
+    }
+    .thard-line {
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 35px;
+    }
+    .second-line::before {
+        top: 90%;
+        right: 6%;
+        width: 288px;
+        height: 6px;
+    }
+    .container p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+        width: 264px;
+    }
+.btn1{
+    padding: 7px 9px;
+    font-size: 12px;
+}
+.buttons {
+    margin-top: 14px;
+}
+.btn2{
+    padding: 7px 9px;
+    font-size: 12px;
+}
+.btn2::after{
+    width: 14px;
+    height: 14px;
+}
+.hero-left{
+    padding-bottom: 100px;
+}
+.container-1{
+    gap: 73px;
+}
+.delivery-icon{
+    width: 56px;
+}
+.delivery{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+}
+.delivery2{
+    font-size: 14px;
+}
+.dogi-right p::after {
+    right: 28%;
+    top: 93%;
+}
+.dogi-left p{
+    font-size: 36px;
+}
+.dogi-left p::after{
+    top: 96%;
+    right: 49%;
+
+}
+.dogi-right p {
+    font-size: 36px
+}
+.h3{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 33px;
+}
+.p3{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 19px
+}
+.boxright-3 {
+    width: 54%;
+    position: relative;
+}
+.boxleft-3 {
+    width: 39%;
+    position: relative;
+}
+.gallery{
+    justify-content: center;
+}
+.box-right-1 {
+    width: 24.9%;
+}
+.box-conter-1 {
+    width: 42%;
+}
+.box-left-1 {
+    width: 24.9%;
+}
+.grooming-pro {
+    top: 46%;
+    left: 4%;
+    font-size: 14px;
+    line-height: 23px;
+}
+.belt-pro {
+    font-size: 14px;
+}
+.hand-glove {
+    font-size: 14px;
+    bottom: 15px;
+}
+.dogi-foods {
+    font-size: 14px;
+}
+.Anti-Shampoo {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 22px;
+}
+h4::after {
+    top: 67%;
+    right: 33.7%;
+}
+.p7{
+    font-size: 18px;
+}
+a span{
+    font-size: 18px;
+}
+.pandding-order{
+    width: 34px;
+}
+.box-foot-left {
+    width: 26%;
+}
+.box-foot-right {
+    width: 20%;
+}
+}
+
+@media only screen and (max-width: 768px){
+.container{
+    flex-wrap: wrap-reverse;
+    padding-bottom: 70px;
+}
+.hero-left {
+    margin-top: 77px;
+    width: 100%;
+}
+.hero-right {
+    width: 100%;
+    margin-top: 0px;
+    padding-right: 0px;
+}
+.hero-left {
+    padding-bottom: 49px;
+}
+.first-line {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+}
+.second-line {
+    font-weight: 600;
+    line-height: 70px;
+    font-size: 40px;
+}
+.thard-line {
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 40px;
+}
+.second-line::before {
+    top: 90%;
+    right: 10%;
+    width: 399px;
+    height: 7px;
+}
+.container p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 349px;
+    margin-top: 28px;
+}
+.btn1 {
+    padding: 10px 12px;
+    font-size: 14px;
+}
+.btn2 {
+    padding: 10px 12px;
+    font-size: 14px;
+}
+.buttons {
+    margin-top: 26px;
+}
+.hero-right{
+    justify-content: center;
+    display: grid;
+}
+.delivery-icon {
+    width: 40px;
+}
+.delivery {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19px;
+}
+.dogi-left p {
+    font-size: 30px;
+}
+.dogi-right p {
+    font-size: 30px;
+}
+.dogi-left p::after {
+    top: 84%;
+    right: 41%;
+}
+.container-fluid {
+    width: 100%;
+    background-color: black;
+    margin-top: -1px;
+}
+.container-4{
+    gap: 15px;
+    justify-content: center;
+}
+.h3 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 28px;
+}
+.p3 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+}
+.gallery {
+    display: flex;
+    padding: 48px 50px;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.container-6 {
+    display: flex;
+    gap: 22px;
+    justify-content: center;
+    padding-bottom: 24px;
+}
+.Anti-Shampoo {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 22px;
+    left: 6px;
+}
+h4::after {
+    top: 65%;
+    right: 27.7%;
+}
+.sale {
+    width: 30%;
+}
+.box-foot-right {
+    width: 26%;
+}
+.box-foot-left {
+    width: 35%;
+}
+.box-ltft-copyright {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.box-icons {
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+.box-right-icons {
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+
+
+}
